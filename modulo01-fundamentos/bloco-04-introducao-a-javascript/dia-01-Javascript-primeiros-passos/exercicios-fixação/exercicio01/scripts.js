@@ -14,3 +14,4 @@ console.log(birthYear);
 
 // Tentando fazer a alteração da constante birthCity e imprimindo o resultado
 birthCity = "Matinhos";
+console.log(birthCity);

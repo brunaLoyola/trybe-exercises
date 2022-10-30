@@ -9,7 +9,7 @@
 
 ![Resolução](https://user-images.githubusercontent.com/51630262/196067751-775870bb-156f-40ab-83e7-34156fcd29a4.png)
 
-1. Para criação de uma constante, é preciso fazer uma declaração e adicionar qual atributo ela irá ter. Lembrando que o exercício pede o nome, então será uma `String`, logo deve estar entre aspas.
+1. Para criação de uma constante é preciso utilizar o `const` (pois é uma constante, o valor dela não será alterado depois), depois deve ser feita a declaração e adicionar qual atributo ela irá ter. Lembrando que o exercício pede o nome, então será uma `String`, logo deve estar entre aspas.
 
 ```
     const name = "Bruna";
@@ -21,4 +21,31 @@
     const birthCity = "Paranaguá"
 ```
 
-3. Para a criação de uma váriavel que receberá o ano de nascimento, é preciso utilizar o `Let`
+3. Para a criação de uma váriavel que receberá o ano de nascimento, é preciso utilizar o `Let` (pois é uma váriavel que possa ser alterada depois), depois deve ser atribuido ao nome `birthYear`, o ano em que você nasceu. Como se trata de um tipo `number`, não é necessário utilizar as aspas, pois elas são somente necessárias para `Strings`.
+
+```
+   let birthYear = 2002;
+```
+
+4. O `console.log(<variável>)`, nesse caso serve para imprimir no terminal, qual o atributo que tem em uma váriavel e deve ser utilizado da seguinte forma.
+
+```
+ console.log(myName); //Resultado: Bruna
+ console.log(birthCity); //Resultado: Paranaguá
+ console.log(birthYear); //Resultado: 2002
+```
+
+5. Para alterar o valor de uma `VÁRIAVEL`, é necessário apenas colocar o `nome` dela e o novo atributo. E seguir o mesmo passo anterior utilizando o `console.log(birthYear);`
+
+```
+    birthYear = 2030
+    console.log(birthYear); // Resultado: 2030
+```
+
+6. Não é possível alterar uma `CONSTANTE`, pois na `const`são valores que você não deseja alterar, então ao tentar mudar, irá aparecer o erro `TypeError: Assignment to constant variable.`, que significa que o tipo para a nova atribuição do valor é incorreto.
+
+```
+birthCity = "Matinhos"; // Resultado: TypeError: Assignment to constant variable.
+console.log(birthCity);
+```
+
