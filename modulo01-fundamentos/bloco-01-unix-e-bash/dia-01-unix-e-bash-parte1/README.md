@@ -17,7 +17,9 @@
 
 Possibilitou:
 
--`Suporte a multiusuários`: várias pessoas utilizando o mesmo computador sem um interferir no outro. -`Multitarefas`: realizar várias tarefas simultaneamente. -`Portabilidade`: ser adaptável a vários sistemas computacionais.
+-`Suporte a multiusuários`: várias pessoas utilizando o mesmo computador sem um interferir no outro. 
+-`Multitarefas`: realizar várias tarefas simultaneamente. 
+-`Portabilidade`: ser adaptável a vários sistemas computacionais.
 
 #
 
