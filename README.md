@@ -14,7 +14,7 @@ Esse repositório contém todos os exercícios resolvidos por mim [Bruna Loyola]
 
 <summary><strong>Bloco 01:unix & bash<strong></summary><br />
 
-- [x] 1.1 - Unix & Bash - Parte 01
+- [x] 1.1 - Unix & Bash - [Parte 01](https://github.com/brunaLoyola/trybe-exercises/tree/main/modulo01-fundamentos/bloco-01-unix-e-bash/dia-01-unix-e-bash-parte1)
 - [x] 1.2 - Unix & Bash - Parte 02
 
 </details>
