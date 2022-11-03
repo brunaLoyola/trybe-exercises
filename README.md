@@ -8,7 +8,7 @@ Esse repositório contém todos os exercícios resolvidos por mim [Bruna Loyola]
 
 ![Módulos](https://user-images.githubusercontent.com/51630262/195221058-7b1e2c07-6fe9-4e18-bf2b-5015fd7c9193.png)
 
-## Módulo 01 - [Fundamentos do Desenvolvimento Web](https://github.com/brunaLoyola/trybe-exercicios/tree/main/modulo01-fundamentos) :computer:
+## Módulo 01 - [Fundamentos do Desenvolvimento Web](https://github.com/brunaLoyola/trybe-exercises/tree/main/modulo01-fundamentos) :computer:
 
 <details>
 
@@ -103,7 +103,7 @@ Esse repositório contém todos os exercícios resolvidos por mim [Bruna Loyola]
 
 </details>
 
-## Módulo 02 - [Front-end](https://github.com/brunaLoyola/trybe-exercicios/tree/main/modulo02-front-end) :hourglass_flowing_sand:
+## Módulo 02 - [Front-end](https://github.com/brunaLoyola/trybe-exercises/tree/main/modulo02-front-end) :hourglass_flowing_sand:
 
 
 <details>
@@ -205,7 +205,7 @@ Esse repositório contém todos os exercícios resolvidos por mim [Bruna Loyola]
 
 </details>
 
-## Módulo 03 - [Back-end](https://github.com/brunaLoyola/trybe-exercicios/tree/main/modulo03-back-end) :hourglass_flowing_sand:
+## Módulo 03 - [Back-end](https://github.com/brunaLoyola/trybe-exercises/tree/main/modulo03-back-end) :hourglass_flowing_sand:
 
 <details>
 
@@ -359,7 +359,7 @@ Esse repositório contém todos os exercícios resolvidos por mim [Bruna Loyola]
 
 </details>
 
-## Módulo 04 - [Ciência da Computação](https://github.com/brunaLoyola/trybe-exercicios/tree/main/modulo04-ciencia-da-computacao) :hourglass_flowing_sand:
+## Módulo 04 - [Ciência da Computação](https://github.com/brunaLoyola/trybe-exercises/tree/main/modulo04-ciencia-da-computacao) :hourglass_flowing_sand:
 
 <details>
 
