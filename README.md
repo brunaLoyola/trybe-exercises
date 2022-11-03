@@ -10,43 +10,56 @@ Esse repositório contém todos os exercícios resolvidos por mim [Bruna Loyola]
 
 ## Módulo 01 - [Fundamentos do Desenvolvimento Web](https://github.com/brunaLoyola/trybe-exercicios/tree/main/modulo01-fundamentos) :computer:
 
-#### Bloco 01: [unix & bash](https://github.com/brunaLoyola/trybe-exercicios/tree/main/modulo01-fundamentos/bloco-01-unix-e-bash)
+<details>
+
+<summary><strong>Bloco 01:unix & bash<strong></summary><br />
 
 - [x] 1.1 - Unix & Bash - Parte 01
 - [x] 1.2 - Unix & Bash - Parte 02
 
-#### Bloco 02: [Git & GitHub e Internet](https://github.com/brunaLoyola/trybe-exercicios/tree/main/modulo01-fundamentos/bloco-02-git-github-e-internet)
+</details>
+
+<details>
+<summary><strong>Bloco 02: Git & GitHub e Internet<strong></summary><br />
 
 - [x] 2.1 - Git - O que é e para que serve
 - [x] 2.2 - Git & GitHub - Entendendo os comandos :octocat:
 
-#### Bloco 03: [Introdução à HTML & CSS](https://github.com/brunaLoyola/trybe-exercicios/tree/main/modulo01-fundamentos/bloco-03-introducao-a-html-e-css)
+</details>
+
+<details>
+
+<summary><strong>Bloco 03: Introdução à HTML & CSS<strong></summary><br />
 
 - [x] 3.1 - HTML & CSS - Estruturas de página
 - [x] 3.2 - HTML & CSS - Primeiros passos em CSS
-- [ ] 3.3 - HTML & CSS - Seletores e posicionamento
-- [ ] 3.4 - HTML Semântico
-- [ ] 3.5 - [Projeto]() - Lessons Learned :green_book:
+- [x] 3.3 - HTML & CSS - Seletores e posicionamento
+- [x] 3.4 - HTML Semântico
+- [x] 3.5 - [Projeto]() - Lessons Learned :green_book:
 
-#### Bloco 04: [Introdução à JavaScript](https://github.com/brunaLoyola/trybe-exercicios/tree/main/modulo01-fundamentos/bloco-04-introducao-a-javascript)
+</details>
+<details>
+<summary><strong>Bloco 04: Introdução à JavaScript<strong></summary><br />
 
-- [ ] 4.1 - JavaScript - Primeiros passos
-- [ ] 4.2 - JavaScript - Array e loop For
-- [ ] 4.3 - JavaScript - Lógica de Programação e Algoritmos
-- [ ] 4.4 - JavaScript - Objetos e funções
-- [ ] 4.5 - JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] 4.6 - [Projeto]() - Playground Functions :teddy_bear:
+- [x] 4.1 - JavaScript - Primeiros passos
+- [x] 4.2 - JavaScript - Array e loop For
+- [x] 4.3 - JavaScript - Lógica de Programação e Algoritmos
+- [x] 4.4 - JavaScript - Objetos e funções
+- [x] 4.5 - JavaScript ES6 - let, const, arrow functions e template literals
+- [x] 4.6 - [Projeto]() - Playground Functions :teddy_bear:
+</details>
+<details>
+<summary><strong>Bloco 05: JavaScript: DOM, Eventos e Web Storage<strong></summary><br />
 
-#### Bloco 05: [JavaScript: DOM, Eventos e Web Storage](https://github.com/brunaLoyola/trybe-exercicios/tree/main/modulo01-fundamentos/bloco-05-javascript-dom-eventos-e-web-storage)
-
-- [ ] 5.1 - JavaScript - DOM e seletores
-- [ ] 5.2 - JavaScript - Trabalhando com elementos
-- [ ] 5.3 - JavaScript - Eventos
+- [x] 5.1 - JavaScript - DOM e seletores
+- [x] 5.2 - JavaScript - Trabalhando com elementos
+- [x] 5.3 - JavaScript - Eventos
 - [ ] 5.4 - JavaScript - Web Storege
 - [ ] 5.5 - [Projeto]() - Arte com Pixels :art:
 - [ ] 5.6 - [Projeto]() - Bônus :exclamation:
-
-#### Bloco 06: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/brunaLoyola/trybe-exercicios/tree/main/modulo01-fundamentos/bloco-06-html-e-css-forms-flexbox-e-responsivo)
+</details>
+<details>
+<summary><strong>Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo<strong></summary><br /> 
 
 - [ ] 6.1 - HTML & CSS - Forms
 - [ ] 6.2 - Bibliotecas JavaScript e Frameworks CSS
@@ -54,15 +67,17 @@ Esse repositório contém todos os exercícios resolvidos por mim [Bruna Loyola]
 - [ ] 6.4 - CSS Flexbox - Parte 2
 - [ ] 6.5 - CSS Responsivo - Mobile First
 - [ ] 6.6 - [Projeto]() - Trybewarts :atom:
-
-#### Bloco 07: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/brunaLoyola/trybe-exercicios/tree/main/modulo01-fundamentos/bloco-07-introducao-a-javascript-es6-e-testes-unitarios)
+</details>
+<details>
+<summary><strong>Bloco 07: Introdução à JavaScript ES6 e Testes Unitários<strong></summary><br /> 
 
 - [ ] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [ ] 7.2 - JavaScript ES6 - Fluxo de exceção e Objetos
 - [ ] 7.3 - Primeiros passos em Jest
 - [ ] 7.4 - [Projeto]() - JavaScript Testes Unitários :page_with_curl:
-
-#### Bloco 08: [Higher Order Functions do JavaScript ES6](https://github.com/brunaLoyola/trybe-exercicios/tree/main/modulo01-fundamentos/bloco-08-higher-order-functions-do-javascript-es6)
+</details>
+<details>
+<summary><strong>Bloco 08: Higher Order Functions do JavaScript ES6<strong></summary><br /> 
 
 - [ ] 8.1 - JavaScript ES6 - Introdução a Higher Order Functions
 - [ ] 8.2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
@@ -70,6 +85,7 @@ Esse repositório contém todos os exercícios resolvidos por mim [Bruna Loyola]
 - [ ] 8.4 - JavaScript ES6 - Higher Order Functions - reduce
 - [ ] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [ ] 8.6 - [Projeto]() - Zoo functions :tiger:
+</details>
 
 ## Módulo 02 - [Front-end](https://github.com/brunaLoyola/trybe-exercicios/tree/main/modulo02-front-end) :hourglass_flowing_sand:
 
